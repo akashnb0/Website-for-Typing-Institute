@@ -1,0 +1,29 @@
+.foot{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ }
+.footer {  
+  background: #66dac2; 
+ height: 1px;
+  
+ }
+
+.follows span a {
+  text-decoration: none;
+}
+
+.follows span {
+  margin-right: 15px;
+}
+
+.link__list .link__item {
+  background: transparent;
+}
+
+.link__list a {
+  text-decoration: none;
+  color: #0a2b1e;
+  font-weight: 500;
+}
+
